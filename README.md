@@ -51,6 +51,6 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 
   [![](https://github-readme-stats.vercel.app/api?username=cris7cf&show_icons=true&theme=gotham&langs_border=true&locale=en)](https://github.com/cris7cf)
   [![](https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=gotham&langs)](https://github.com/cris7cf)
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cris7cf&layout=compact&theme=gotham&langs_count=8)](https://github.com/cris7cf)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cris7cf&theme=gotham&langs_count=8)](https://github.com/cris7cf)
 
 
