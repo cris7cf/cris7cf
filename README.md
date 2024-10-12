@@ -48,9 +48,26 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 </span>
 
 <h2>Github stats:</h2> 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <a href="https://github.com/cris7cf">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cris7cf&theme=dark&show_icons=true&count_private=true" />
+  </a>
+  <br></br>
+  <a href="https://github.com/cris7cf">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=dark&hide_border=false" />
+  </a>
+</td>
 
-  [![](https://github-readme-stats.vercel.app/api?username=cris7cf&show_icons=true&theme=gotham&langs_border=true&locale=en)](https://github.com/cris7cf)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=gotham&langs)](https://github.com/cris7cf)
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cris7cf&theme=gotham&langs_count=8)](https://github.com/cris7cf)
-
-
+<td width="50%" align="center">
+<a href="https://github.com/cris7cf">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cris7cf&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</a>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
