@@ -44,17 +44,13 @@ I am a computer engineering student, I am expanding my knowledge in back-end dev
 <span>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">  
-</span>
-
-
-<h3> Databases </h3>
-<span>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)">
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h2>Github stats:</h2> 
 
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=cris7cf&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris7cf&layout=compact&theme=gotham&langs_count=8"/>
-</div>
+  [![](https://github-readme-stats.vercel.app/api?username=cris7cf&show_icons=true&theme=gotham&langs_border=true&locale=en)](https://github.com/cris7cf)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=cris7cf&theme=gotham&langs)](https://github.com/cris7cf)
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cris7cf&layout=compact&theme=gotham&langs_count=8)](https://github.com/cris7cf)
+
+
